@@ -1,0 +1,57 @@
+Third-party software used by this academic homepage
+
+acad-homepage: Copyright (c) 2022 Yi Ren. MIT License (see LICENSE).
+https://github.com/RayeRen/acad-homepage.github.io
+
+jQuery 1.12.4: Copyright jQuery Foundation. MIT License.
+https://jquery.org/license/
+
+Magnific Popup 0.9.9: Copyright (c) 2013 Dmitry Semenov. MIT License.
+https://github.com/dimsemenov/Magnific-Popup
+
+Stickyfill 1.1.4: Copyright Oleg Korsunsky. MIT License.
+https://github.com/wilddeer/stickyfill
+
+jQuery Smooth Scroll 1.7.2: Copyright (c) 2016 Karl Swedberg. MIT License.
+https://github.com/kswedberg/jquery-smooth-scroll
+
+Greedy Navigation: Luke Jackson.
+https://codepen.io/lukejacksonn/pen/PwmwWV
+
+FitVids 1.1: Copyright 2013 Chris Coyier and Dave Rupert. WTFPL.
+https://github.com/davatron5000/FitVids.js
+
+Font Awesome Free: Copyright Fonticons, Inc.
+Fonts: SIL Open Font License 1.1; code: MIT License; icons: CC BY 4.0.
+https://fontawesome.com/license/free
+
+Academicons 1.8.0: Copyright James Walsh.
+Fonts: SIL Open Font License 1.1; CSS: MIT License.
+https://github.com/jpswalsh/academicons
+
+MIT License terms for the MIT-licensed components listed above:
+The MIT License (MIT)
+
+Copyright holders are listed above.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+SIL Open Font License 1.1: https://openfontlicense.org/open-font-license-official-text/
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode
+WTFPL: http://www.wtfpl.net/txt/copying/
