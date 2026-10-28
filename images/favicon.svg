@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Non-Euclidean geometry — Poincaré disk</title>
+  <circle cx="32" cy="32" r="27" fill="#f5f8fc" stroke="#9bb2ce" stroke-width="2"/>
+  <path d="M32 9 A47.567 47.567 0 0 1 12.081 43.5 A47.567 47.567 0 0 1 51.919 43.5 A47.567 47.567 0 0 1 32 9Z"
+        fill="#ffffff" stroke="#254f7d" stroke-width="2.8" stroke-linejoin="round"/>
+</svg>
